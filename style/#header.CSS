@@ -1,0 +1,20 @@
+.cabecalho__menu-hamburguer{
+    width: 34px;
+    height: 34px;
+    background-image: url(..cabecalho__menu-hamburguer);
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: inline-block;
+}
+
+.cabecalho{
+    background-color: var(--branco);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.caixa{
+    display: flex;
+    align-items: center;
+}
