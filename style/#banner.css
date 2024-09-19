@@ -1,3 +1,38 @@
-.banner{
-    
+.bannner{
+    background-color: var(--vermelho);
+    color: var(--azul);
+    text-align: center;
+    padding: 2.5em 2em;
+}
+.bannner__titulo{
+    font-size: 18px;
+    font-weight: 700;
+}
+
+.bannner__texto{
+    font-weight: 500;
+    margin: 1em 0;
+}
+
+.bannner__pesquisa{
+    width: 100%;
+    background-color: var(--branco);
+    padding: 0.75em;
+    border-radius: 28px;
+}
+
+.bannner__pesquisa::placeholder{
+    color: var(preto);
+    font-size: 14px;
+    font-weight: 400;
+    text-align: center;
+}
+
+.swiper-slide img{
+    width: 100%;
+}
+
+.swiper-button-prev,
+.swiper-button-next{
+    display: none;
 }

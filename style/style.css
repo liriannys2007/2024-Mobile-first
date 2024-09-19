@@ -1,5 +1,6 @@
 @import url("rest.CSS");
 @import url("header.CSS");
+@import url(banner.css);
 
 :root{
     --cor-de-fundo: #EBECEE;
