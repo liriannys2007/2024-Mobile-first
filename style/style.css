@@ -8,10 +8,10 @@
 @import url("rodape.css");
 
 :root {
-    --cor-fundo: #EBECEE;
+    --cor-fundo: #25a1c0;
     --branco: #ffffff;
-    --laranja: #EB9B00;
-    --azul: #002F52;
+    --laranja: #00c8eb;
+    --azul: #000c52;
     --preto: #000000;
     --cinza: #353535;
     --fonte-principal : "Poppins", sans-serif;
